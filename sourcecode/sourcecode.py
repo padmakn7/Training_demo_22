@@ -7,4 +7,7 @@ def func2():
 def func3():
     print("This is the main func")
 
+def push_test():
+    print("push test")    
+
 func3()
