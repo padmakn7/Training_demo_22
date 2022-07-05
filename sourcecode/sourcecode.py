@@ -1,5 +1,6 @@
 def func1():
-    pass
+    print("this is func 1")
+    print("updated")
 
 def func2():
     pass
